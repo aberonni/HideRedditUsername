@@ -1,6 +1,6 @@
 # HideRedditUsername
 
-You can download this extension from the [Chrome Web Store](​https://chrome.google.com/webstore/detail/hide-reddit-username/jldedhlbgmhphcahcjikkkiepalgnbdi).
+You can download this extension [here](https://chrome.google.com/webstore/detail/hide-reddit-username/jldedhlbgmhphcahcjikkkiepalgnbdi).
 
 ![Screenshot](Screenshot.png)
 
