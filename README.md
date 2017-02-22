@@ -4,4 +4,4 @@ You can find this extension on the Chrome Web Store - pretty straightforward stu
 
 ![Screenshot](Screenshot.png)
 
-If you are experiencing any problems, please [open an issue](issues/new).
+If you are experiencing any problems, please [open an issue](https://github.com/aberonni/HideRedditUsername/issues/new).
