@@ -1,0 +1,4 @@
+body.loggedin #header-bottom-right span.user,
+body.loggedin .side .flairselectable {
+	visibility: hidden !important;
+}
