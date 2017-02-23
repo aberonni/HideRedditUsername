@@ -12,8 +12,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://www.reddit.com/*",
-        "http://www.reddit.com/*"
+        "*://*.reddit.com/*"
       ],
       "css": [
         "inject.css"
